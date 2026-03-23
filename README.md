@@ -25,4 +25,18 @@ We select 5 forest locations:
 <img width="301" height="455" alt="Screenshot 2026-03-23 at 22 56 41" src="https://github.com/user-attachments/assets/7f29aa3a-5b74-4fd1-ad9a-38f11eceec42" />
 
 
+Interpolation techniques tested: 
+- Linear
+- Cubic Spline: uses piecewise cubic polynomials to create smooth curve passing through a set of points. 
+- Gaussian Process Regression: Bayesian ML method that models data as a smooth curve with uncertainty. Smooth trend, seasonality noise accounted for using kernels
+-  Climatology Fill (seasonal): average info from similar time in past and previous years
+
+
+## Results:
+- short window →  better interpolation
+- GPR processing time takes 2x as much
+- Best interpolation technique for seasonal pattern: SHORT: linear, cubicSpline; LONG: Seasonal, GPR
+- Best interpolation technique for non-seasonal: linear, or seasonal
+
+
 
