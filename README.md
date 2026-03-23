@@ -11,13 +11,18 @@ Accurate interpolation is essential to ensure reliable analysis of vegetation dy
 
 
 ## Use Case
-
 We select 5 forest locations:
 - Amazon: Moist tropical forest, Low seasonality, High precipitation, 123 billion tonnes of carbon (NOAA, 2021)
 - Caatinga: Moist tropical forest; High Seasonality & precipitation; ~100,000 km2 and large flux of carbon, water, and other compounds with the atmosphere with seasons
 - Elmstein: Temperate forest; High Seasonality & medium precipitation
 - Muara: Moist tropical forest; High Seasonality & precipitation (monsoonal pattern)
 - Rockies: Boreal forest. High seasonality, medium precipitation.
-<img width="1361" height="245" alt="image" src="https://github.com/user-attachments/assets/807ce38c-1e89-4647-936a-80a2bbf5ba1c" />
+
+<img width="494" height="371" alt="image" src="https://github.com/user-attachments/assets/a16e7487-eef2-473d-9ea5-5b5b5bc0e971" />
+<img width="352" height="255" alt="image" src="https://github.com/user-attachments/assets/835c04fb-2007-44f3-a2a8-3d8253c9dd76" />
+
+## Methods
+<img width="301" height="455" alt="Screenshot 2026-03-23 at 22 56 41" src="https://github.com/user-attachments/assets/7f29aa3a-5b74-4fd1-ad9a-38f11eceec42" />
+
 
 
