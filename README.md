@@ -1,7 +1,7 @@
 # ESA-SciHub-2025-Forest-Interpolation
 Testing different Interpolation Techniques for forest monitoring as part of ESA Space Challenge Hub 2025. Group work carried out with Mae Evans and Fran O'Leary.
 
-Project website [here] (https://eodashboard.org/story/?id=scienceHub_timeSeries_vegetation)
+Project website: https://eodashboard.org/story/?id=scienceHub_timeSeries_vegetation
 
 ## Background
 Vegetation EO time series are crucial for monitoring ecosystem health, agricultural productivity and climate impacts.
